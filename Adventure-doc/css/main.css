@@ -1,10 +1,10 @@
 body{
-	background-color:#FFF;
+	background-color:#3b4a7c;
     font-family: "Lato", sans-serif;
     font-weight: 300;
 	font-size:16px;
 	line-height:18px;
-	color:#777;
+	color:#000000;
 }
 
 p{
@@ -12,7 +12,7 @@ p{
 }
 
 a {
-    color: #aa0a5f;
+    color: #000000;
 }
 
 a, a:hover, a:focus{
@@ -21,7 +21,7 @@ a, a:hover, a:focus{
 }
 h1, h2, h3,
 h4, h5, h6 {
-    color: #333;
+    color: #000000;
 	margin:0;
     font-weight: normal;
 }
@@ -32,9 +32,7 @@ h3 { font-size: 18px;}
 h5 { font-size: 16px;}
 h6 { font-size: 14px;}
 
-strong {
-  letter-s;;Dacing: 1px;
-}
+
 
 code {
   background-color: #ddd;
@@ -46,7 +44,7 @@ code {
 }
 
 code a {
-    color: #333;
+    color: #000000;
 }
 
 code a:hover {
@@ -54,7 +52,7 @@ code a:hover {
 }
 
 section p {
-  line-height: 28px;
+  line-height: 20px;
 }
 
 .clearfix:before,
@@ -65,9 +63,7 @@ section p {
 .clearfix:after {
     clear: both;
 }
-.clearfix {
-    *zoom: 1;
-}
+
 
 .tan {
   margin-bottom: 10px;
