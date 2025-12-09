@@ -535,7 +535,7 @@ mark,
 
 .figure-caption {
   font-size: 90%;
-  color: #868e96;
+  color: #000000;
 }
 
 code,
@@ -578,7 +578,7 @@ pre {
   margin-top: 0;
   margin-bottom: 1rem;
   font-size: 90%;
-  color: #212529;
+  color: #000000;
 }
 
 pre code {
@@ -1717,7 +1717,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
   width: 100%;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 400px) {
   .form-inline label {
     display: flex;
     align-items: center;
@@ -1858,7 +1858,7 @@ fieldset[disabled] a.btn {
 }
 
 .btn-secondary:focus, .btn-secondary.focus {
-  box-shadow: 0 0 0 3px rgba(134, 142, 150, 0.5);
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.5);
 }
 
 .btn-secondary.disabled, .btn-secondary:disabled {
